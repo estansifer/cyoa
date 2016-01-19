@@ -1,0 +1,26 @@
+[start]
+You find yourself in a pub filled with characters matching every size, color,
+and description.
+
+In the rear of the pub there is an open doorway leading into a semi-private
+room labeled with a simple wooden plaque carved with the inscription:
+                Adventures
+
+You enter the room, crouching to pass through the short doorway. A stern
+looking woman, small and otherwise totally nondescript, is the only occupant.
+She glances at you with disdain and returns to doing nothing particular.
+
+"Umm... hello?" you say, nervously poised just inside the doorway.
+
+"You're here for an adventure?" she says with a hint of skepticism.
+
+"Yes, I was told... well... I'm not sure what kind of adventure is right for
+me. Can you suggest something?"
+
+"Ha! I can't just /give/ you an adventure. Your adventure will be of your own
+making. You must
+                CHOOSE YOUR OWN ADVENTURE
+."
+
+[[games/help    |]] Say, "I've never been on an adventure before, what do I do?"
+[[games/logic   |]] Say, "I will outwit the Logic Beast of Saffron V!"

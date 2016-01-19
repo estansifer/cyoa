@@ -1,0 +1,68 @@
+[start]
+Suddenly the interactive help system for the choose your own adventure engine
+appears before your eyes. What did you want help with?
+
+[[usage     ]] Learn about how to read a story with the CYOA engine.
+[[creation  ]] Learn about how to write new stories for the CYOA engine.
+[[python    ]] Learn about how the CYOA engine works. (not written yet)
+
+[usage]
+To start the CYOA engine, run the command
+    python cyoa.py
+which opens the story menu from which you can choose which story you want to
+read. To read a particular story, run the command
+    python cyoa.py <filename>
+which opens the story found in file <filename>. If you want to start at a
+particular page in the story, run the command
+    python cyoa.py <filename> <pagename>
+which allows you to start at the page <pagename>.
+
+When navigating the story, type the number of the option you want to choose
+(and press enter) to continue on to the page corresponding to that option.
+There are several other commands also available to you:
+    Type 'back' to rewind to the previous page; this can be used repeatedly.
+    Type 'quit' or 'exit' to leave the program.
+    Type 'help' to go to the help screen.
+    Type 'refresh' to redisplay the current page.
+Each of the above commands can be shortened to the first letter.
+
+Particularly long pages might not display on the screen all at once. In this
+case, the page will be displayed in pieces; after you've finished reading each
+piece, press 'enter' to proceed to the next one. By default each piece contains
+50 lines; to change this number, edit the "page_size" variable on line 123 of
+cyoa.py.
+
+If a page has only a single option of where to go next, pressing enter will
+choose that option.
+
+Some pages -- such as this one -- may be dead ends, usually representing the
+end of the story. In such cases you may want to use 'back' to try to find
+another ending.
+
+[creation]
+To write a new choose your own adventure story, create a plain text document in
+which to type your story. Each page of the story needs a unique name. Begin
+each page with a single line containing only the text "[pagename]" with no
+extra spaces at the beginning or end of the line. After this line, write the
+contents of the page; these will be displayed exactly as you typed, except for
+any links contained in that page.
+
+To make a link to another page, write the name of the page you want to link to
+inside of double square brackets, e.g., like <<pagename>> but replacing < and >
+by [ and ]. You may include extra spaces at the beginning or end of pagename
+inside of the square brackets. These links will be replaced in the display by
+numbered links like (1), (2), (3), etc.; the user will type the number of the
+link they wish to follow.
+
+You can also make a link to a page in a different file. This allows you to
+split up a single story across multiple files. To create a cross-file link,
+write <<filename|pagename>>, again with < and > replaced by [ and ]. The
+filename and pagename may have extra spaces at the beginning or end. If the
+pagename is omitted, then the link will go to the first page of the specified
+file.
+
+You may want to add your finished story to the "games" directory and then edit
+the "menu" file to include a link to your new story!
+
+[python]
+This help page hasn't been written yet! Type "back" to go back.

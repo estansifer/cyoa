@@ -1,0 +1,2645 @@
+
+[start]
+
+Lush, primary growth forest. Clean, breathable air. Vast wildnerness, seemingly
+untouched by human -- or any -- hands.
+
+You browse through the computer readings of the terrain immediately around your
+ship, which speak of dense, tall woods irregularly interspersed with clearings
+of light-red grass and clear rivers meandering through gently rolling hills.
+You have just landed on Saffron V, the jewel of the remote and rarely visited
+Saffron system, and wish to arm yourself with information before leaving the
+security of your one-person craft. Rumors tell of a grand secret to be found on
+this planet, and facts tell of explorers who visit and don't return. You have
+prepared carefully for your trip, but so far there has been no hint of
+something to be prepared /for/, and it seems you will not even need your
+spacesuit. You step outside cautiously, but with optimism.
+
+The air is thick with some not unpleasant odor to which you quickly acclimate.
+The grass is springy and soft, and the forest around the clearing where you
+landed your ship is open and inviting.
+
+[[start2]] Head off into the forest.
+
+[start2]
+
+There is a small hill not far from the ship, and you decide to go through the
+forest in that direction.
+
+The forest is airy and well-lit. After 30 minutes of walking the hill does not
+seem to be any closer than before. The gravity is slightly stronger than you
+are used to, and while so far the walk has been easy, you are beginning to fear
+that you have underestimated the difficulty that climbing the hill will pose.
+You can still just barely see behind you the clearing that you came from, and
+you think you can glimpse the reflective metal surface of your spacecraft from
+between the trees but are not sure.
+
+[[hill]] Continue towards the hill.
+[[leave]] Return to the safety of your spacecraft.
+
+[leave]
+
+You return to the spacecraft with a mixture of disappointment and relief. You
+wait inside, idly watching the controls and computer readings, but don't dare
+to venture outside a second time. Eventually you grow bored and leave.
+
+THE END
+
+[hill]
+
+Slowly the terrain begins to steepen, and on the low slopes of the hill the
+wood thickens, obscuring your vision somewhat. After some time of walking in
+silence you begin to grow tired and yearn to rest. Suddenly you run across a
+narrow stream running approximately parallel to the direction of your path. You
+think that you can probably cross the stream, but it is flowing quickly, and
+you don't want to risk injury. It seems to be flowing from the top of the hill
+that you are going towards, and following the stream would make it less likely
+to lose your way.
+
+[[rest]] Rest briefly besides the stream.
+[[hill2]] Follow the stream further up the hill.
+
+[rest]
+
+You lie down by the stream and before long drift off to sleep. You wake up,
+feeling much rested, though you do not think much time has passed.
+
+You stand up and see that you are next to a stream, which seems to be flowing
+from a nearby hill. You remember that you had been planning on climbing that
+hill.
+
+[[hill4]] Follow the stream further up the hill.
+[[downhill]] Follow the stream downhill, back towards the spacecraft.
+
+[hill2]
+
+You continue up the hill, following the stream, which splits repeatedly and
+eventually narrows and vanishes underground at some spring. The ground is steep
+and the going has become very difficult, but you are too close to your
+destination to stop. Weary and tired, you reach the top. It is now quite dark,
+and you can only barely see the trees nearest to you. You have no choice but to
+stop here until the morning.
+
+You lie down on the ground, completely exhausted from the climb, and fall
+asleep instantly.
+
+[[hill3]] Sleep.
+
+[hill4]
+
+You continue up the hill, following the stream, which splits repeatedly and
+eventually narrows and vanishes underground at some spring. The ground is steep
+and the going has become difficult, but you seem to be nearing the top of the
+hill. Weary and tired from the climb, you feel the ground leveling off as you
+approach and reach the top. By now it has become dark, and the trees are almost
+impossible to see in the vanishing light. You have no choice but to stay here
+on the hill until the morning.
+
+[[hill3]] Rest.
+
+[hill3]
+
+You wake and find yourself in almost complete darkness, with only a dim light
+in the sky in one direction. You find your bag of supplies in arm's reach and
+munch on some of the items inside as you watch the dawn and try to recollect
+the events of yesterday. The ground gently slopes down away from you in all
+directions, so you surmise that you successfully made it to the top of the hill
+after all. In the dim morning light you make out the shapes of the trees around
+you. They are larger than you remember, in fact enormous, towering far overhead
+and with trunks too large to wrap your arms around.
+
+Once the light is strong enough for you to navigate, you get up and examine
+your surroundings. From the ground you can see only the forest extending in all
+directions from you, and it is impossible to climb the trees to reach a better
+vantage point.  You can find no indication of the direction you came from. You
+head downhill, occasionally veering off in one direction or another in hopes of
+running across your path from yesterday. Eventually you run across a narrow but
+quick flowing stream; it doesn't look like the stream from yesterday, but you
+can't be sure.
+
+[[downhill]] Follow the stream downhill.
+
+[downhill]
+
+The stream repeatedly joins with other streams and gradually broadens until it
+is far too wide to even attempt to cross it; if you attempted to wade it you'd
+surely be swept away.
+
+Abruptly you come to a ravine running perpendicular to your path. At the bottom
+of the ravine, twice as deep as you are tall, you see deep crimson waters. It
+is impossible to tell which direction the ravine waters are flowing, and
+looking both left and right the ravine extends in each direction as far into
+the forests as you can see from here. The stream itself flows until it pours
+into the ravine in a waterfall agitating the water at the bottom.
+
+At the juncture of the stream and the ravine, two great trees have fallen, one
+crossing the ravine and one crossing the stream. The tree crossing the ravine
+looks old and decayed; the tree crossing the water is slick and wet from the
+mists of the waterfall below it; and neither looks safe to cross.
+
+You are surprised to also see two figures at the juncture. They look thin and
+gaunt, nearly skeletal, but strangely almost human despite the extra arms... or
+whatever those appendages are. One looks vaguely masculine, the other perhaps
+feminine. They are peering into the ravine.
+
+[[diag-1]] Look at a diagram.
+[[conv-1]] Call out to attract their attention.
+
+[diag-1]
+                         {##}
+                        r{##}
+                        a{##}
+                        v{##}
+                        i{##}
+                        n{##}  |<-- wet tree
+                        e{##~~~|~~~~~~~~~~~~~~~~~~~~~~~~
+                         {##~~~|~~~~~~~stream~~~~~~~~~~~
+                         {##~~~|~~~~~~~~~~~~~~~~~~~~~~~~
+                         {##}  |
+            old tree--> ------        X<==your entry====
+                         {##}   X
+                         {##}    figures
+                         {##}
+                         {##}
+                         {##}
+
+[[downhill]] back
+
+[conv-1]
+
+They turn to face you. "Hello," says the woman. "Do you need help?"
+
+They seem friendly.
+
+"Well, I'm a bit lost. I'm looking for my spaceship... are you from around
+here?" you say.
+
+The man shakes his head. "Sorry, I'm afraid we're not. I'm from Saffron II. And
+my companion here is from Saffron III. We're also a bit lost, actually."
+
+The man continues. "We were walking along this ravine, on the other side, when
+we saw this stream. We just crossed this old tree to get to this side of the
+ravine so that we could follow the stream up the hill."
+
+The woman interrupts. "I can't agree with that. We had been walking along the
+ravine, on this side, when our path was blocked by this stream. We just crossed
+this wet tree to get to this side of the stream so that we could continue
+following the ravine."
+
+You smile awkwardly and wait for further explanation from the two skeletal
+figures.
+
+The man shakes his head again. "I'm sorry about the confusion. People from
+Saffron III always lie. However, don't worry, people from Saffron II always
+tell the truth."
+
+The woman laughs. "People from Saffron III always tell the truth. It's people
+from Saffron II who always lie. You get used to it after a while."
+
+[[diag-2]] Look at a diagram.
+[[conv-menu]] continue
+
+[diag-2]
+                         {##}
+                        r{##}
+                        a{##}
+                        v{##}
+                        i{##}
+                        n{##}  |<-- wet tree
+                        e{##~~~|~~~~~~~~~~~~~~~~~~~~~~~~
+                         {##~~~|~~~~~~~stream~~~~~~~~~~~
+                         {##~~~|~~~~~~~~~~~~~~~~~~~~~~~~
+                         {##}  |
+            old tree--> ------        X<==your entry====
+                         {##}   X
+                         {##}    figures
+                         {##}
+                         {##}
+                         {##}
+
+[[conv-1]] back
+
+[conv-menu]
+
+The man and woman patiently wait for you to say or do something.
+
+ [[diag-3]] Look at a diagram.
+ [[conv-spaceship]] Ask "Do you know where my spaceship is?"
+ [[conv-oldtree]] Ask "Is the old tree safe to cross?"
+ [[conv-wettree]] Ask "Is the wet tree safe to cross?"
+ [[conv-man-tricky]] Ask the man, "What would your companion say if I asked her which tree is
+        safe to cross?"
+ [[conv-woman-tricky]] Ask the woman, "What would your companion say if I asked him which tree is
+        safe to cross?"
+ [[conv-1+1]] Ask "What is 1 + 1?"
+ [[conv-ravine]] Ask "Why were you looking in the ravine?"
+ [[cross-old-tree]] Cross the old tree.
+[[cross-wet-tree]] Cross the wet tree.
+[[conv-win]] Walk along this side of the ravine, away from the stream.
+
+[diag-3]
+                         {##}
+                        r{##}
+                        a{##}
+                        v{##}
+                        i{##}
+                        n{##}  |<-- wet tree
+                        e{##~~~|~~~~~~~~~~~~~~~~~~~~~~~~
+                         {##~~~|~~~~~~~stream~~~~~~~~~~~
+                         {##~~~|~~~~~~~~~~~~~~~~~~~~~~~~
+                         {##}  |
+            old tree--> ------        X<==your entry====
+                         {##}   X
+                         {##}    figures
+                         {##}
+                         {##}
+                         {##}
+
+[[conv-menu]] back
+
+[conv-spaceship]
+
+The man points straight ahead, across the ravine. "When we were on the other
+side of the ravine I think we saw a ship in a clearing in that direction. If
+you cross the old tree and then continue straight ahead you will surely find it
+quite soon."
+
+The woman points along the ravine, across the stream. "We definitely saw an
+abandoned ship in a clearing earlier, in that direction. If you cross the wet
+tree and then continue along the ravine, you will find your ship. It is a long
+walk but you will reach it before nightfall."
+
+[[conv-menu]] continue
+
+[conv-oldtree]
+
+The man answers, "The old tree is definitely safe. It easily held both of our
+weights, so you should have no trouble crossing it."
+
+The woman answers, "I don't know."
+
+[[conv-menu]] continue
+
+[conv-wettree]
+
+The woman answers, "The wet tree is definitely safe. It is not nearly as
+slippery as it looks. You would have no trouble crossing it."
+
+The man answers, "I don't know."
+
+[[conv-menu]] continue
+
+[conv-man-tricky]
+
+The man seems confused. "I don't know what my companion would say; why are you
+asking me?"
+
+[[conv-menu]] continue
+
+[conv-woman-tricky]
+
+The woman seems confused. "I don't know what my companion would say; why are
+you asking me?"
+
+[[conv-menu]] continue
+
+[conv-1+1]
+
+The two break out laughing.
+
+"That's the stupidest question I've heard today!" the man says.
+
+"Having a little trouble with /addition/? Want some help?" the woman says
+derisively. "Guess what: I've had *two* breakfasts today!"
+
+The man joins in. "I have *two* arms!"
+
+The woman says, "My companion is from Saffron *II*!"
+
+The man says, "We've crossed exactly one of these *two* trees!"
+
+The two continue laughing to themselves before regaining their composure.
+
+[[conv-menu]] continue
+
+[conv-ravine]
+
+"Oh, no reason." the woman says. "There's nobody there."
+
+You peer into the ravine suspiciously. You can see nothing more than the
+sanguine waters of the ravine being churned up by the waterfall from the
+stream.
+
+[[conv-menu]] continue
+
+[cross-old-tree]
+
+You carefully walk across the old tree to get to the other side of the ravine.
+The tree creaks and groans from your weight. You can hear the two figures
+talking.
+
+"I think the tree will hold," the woman says.
+
+"We should do something," the man says.
+
+The tree gives way and spills you into the ravine.
+
+THE END
+
+[cross-wet-tree]
+
+You carefully crawl along the top of the wet tree to get to the other side of
+the stream. You can barely see through the mists, and as you wipe the wet hair
+out of your face you lose your grip with the other hand and fall into the
+stream. You are powerless against the strong current which hurtles you into the
+ravine, where your blood joins that of those before you.
+
+THE END
+
+[conv-win]
+
+As you walk along the side of the ravine, you ignore the shouts of the two
+figures behind you. "Wait! Come back!" one calls out. "We want to help you!"
+
+The ravine wanders along in the forest unpredictably, but appears to be going
+generally downhill. The ravine becomes shallower and narrower over time, and
+eventually the waters within it vanish underground and the ravine itself peters
+out. By this point, however, you have come within sight of a large clearing
+nearby. You head quickly out into the clearing. It looks very much like the
+clearing you left your spacecraft in... though perhaps a little smaller. And,
+you can't help but noticing, this clearing doesn't have your spacecraft in it.
+In fact, it is entirely devoid of anything of relevance what-so-ever.
+
+You dejectedly walk around in the middle of the clearing when abruptly a
+movement in the sky catches your eye. It vanishes before you can focus on it,
+and just as suddenly there reappears a monstrous shape in the sky, silhouetted
+against the star of the Saffron system.
+
+The shape falls back to the ground, and then leaps into the air again, much
+closer than before. You can glimpse several uprooted trees flung through the
+air behind it. The form thunderously crashes to the ground in the clearing
+before you. The ground beneath it buckles from the impact, with dirt and grass
+flung about with tremendous force. One of the uprooted trees from before sails
+on overhead to some distant landing behind you. Small foliage and dirt rain
+down upon the clearing for some minutes.
+
+The thing before you defies any sensible description. A hideous aggregation of
+parts from every mythology and reality, with wings and arms and claws and
+rotating eyeballs and fins attached in every way that couldn't possibly work.
+It appears to be twice as large as it actually is, and each of its eyes seem to
+be looking in a slightly different direction from the others. It exhales and
+the trees at the edge of the clearing sway, some bending over. It inhales and
+the trees right themselves again.
+
+"Welcome," it says, "to my world." It carries itself with the air of a Sphinx.
+It bows what you think is a head. You have trouble determining how it produces
+sound.
+
+You back away slightly. You feel like the thing is expecting a response.
+
+"I... uh, I heard /rumors/-" you start.
+
+"Yes! The rumors are completely true!" it exclaims into the sky. A tongue
+rolled out one of its mouths as it talked, in a way that struck you as wholly
+unreasonable for a tongue to do. "I AM THE LOGIC BEAST OF SAFFRON V!"
+
+It feels as if the ground beneath rearranged itself at the force of the beast's
+invocation, but you realize that it was just the experience of you being blown
+to the edge of the clearing. You feel like this would be a poor time to mention
+that none of the rumors had indicated anything about a Logic Beast, and that
+rather more of them concerned the subject of boundless treasure.
+
+"You have passed my first test," the beast says. "and so you receive a personal
+welcome from me. Though of course," the beast looks sheepishly at itself, "this
+is not my true form. I must take precautions. Guards! Seize the intruder!"
+
+Your arms are suddenly grabbed from behind, and you are dragged to a cluster of
+trees at the edge of the clearing. You feel chains placed on your wrists and
+ankles, and see that that other end of the chains have been attached to the
+trees near you. The chains are short and give you very little movement, so that
+you struggle even to twist yourself around to see behind you. You are splayed
+about uncomfortably with each limb in a separate direction.
+
+"That's more like it," the beast says. "Now... /welcome/ to Saffron V." The
+beast grins, displaying teeth as it did and losing several.
+
+"As I'm sure you know from the rumors," it continues, "I expect each of my
+visitors to challenge me with a riddle or puzzle or game of some sort. I will
+of course give you a challenge of my own divising. It is not so difficult,
+though the last person that came along had an awful lot of trouble with it! If
+you are able to solve my challenge, then I will give you a reward greater than
+any possible material reward. But if you fail, then you will receive some fate
+suitable for those who fail. Is that clear?"
+
+You pause for a while, digesting what the beast had told you. "I give you a
+puzzle, and you give me a puzzle, and if I solve your puzzle then I receive
+some amazing reward?"
+
+"Exactly!" The beast stands on one leg and waves its other limbs about in what
+must have been some kind of affirmation.
+
+"And what if you're unable to solve my challenge?" you ask. You don't have a
+puzzle in mind yet but hopefully would be able to think of one soon.
+
+"Hmm? Ridiculous!" the beast grunts.
+
+"I have a very difficult one for you," you press.
+
+The beast seems intrigued and pleased, but conversely proud. "It has never
+happened before. I have always solved every puzzle I have been given."
+
+"There's always a first," you insist.
+
+"Maybe," the beast says, thinking quietly. "Very well. If I am unable to render
+unto you the correct answer to your puzzle, then I will give you any one thing
+you ask for."
+
+"Agreed," you say.
+
+"Yes. Now then!" the beast continues with sudden conviction. "We shall exchange
+challenges. As my guest on this planet, you may go first."
+
+[[choose puzzle]] continue
+
+[choose puzzle]
+
+You think for a while about what challenge you wish to pose the beast.
+
+"What is your challenge?" the beast says.
+
+[[number    ]] Say, "I'm thinking of a number from 1 to 63..."
+[[coins     ]] Say, "There are 13 coins, one of which is counterfeit..."
+[[random    ]] Say, "Before you are three people, one of whom answers randomly..."
+[[chocolate ]] Say, "There are 12 pieces of chocolate, one of which is poisoned..."
+[[drops     ]] Say, "You want to know how high you can drop a chair..."
+
+[number]
+
+You announce your challenge.
+
+"I'm thinking of a whole number from 1 to 63. You need to guess my number using
+at most 6 guesses. After each wrong guess, I will tell you whether your guess
+was too low or too high."
+
+The beast agrees to the rules, nodding its barbed tail.
+
+"Once you've decided upon your number, I can begin. Ready?" the beast says.
+
+[[32]] Say, "Okay."
+[[choose puzzle]] Give a different challenge.
+
+[1]
+
+"1?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[2]
+
+"2?" it asks.
+
+[[1]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[3]] Say, "Higher."
+
+[3]
+
+"3?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[4]
+
+"4?" it asks.
+
+[[2]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[6]] Say, "Higher."
+
+[5]
+
+"5?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[6]
+
+"6?" it asks.
+
+[[5]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[7]] Say, "Higher."
+
+[7]
+
+"7?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[8]
+
+"8?" it asks.
+
+[[4]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[12]] Say, "Higher."
+
+[9]
+
+"9?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[10]
+
+"10?" it asks.
+
+[[9]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[11]] Say, "Higher."
+
+[11]
+
+"11?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[12]
+
+"12?" it asks.
+
+[[10]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[14]] Say, "Higher."
+
+[13]
+
+"13?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[14]
+
+"14?" it asks.
+
+[[13]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[15]] Say, "Higher."
+
+[15]
+
+"15?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[16]
+
+"16?" it asks.
+
+[[8]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[24]] Say, "Higher."
+
+[17]
+
+"17?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[18]
+
+"18?" it asks.
+
+[[17]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[19]] Say, "Higher."
+
+[19]
+
+"19?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[20]
+
+"20?" it asks.
+
+[[18]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[22]] Say, "Higher."
+
+[21]
+
+"21?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[22]
+
+"22?" it asks.
+
+[[21]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[23]] Say, "Higher."
+
+[23]
+
+"23?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[24]
+
+"24?" it asks.
+
+[[20]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[28]] Say, "Higher."
+
+[25]
+
+"25?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[26]
+
+"26?" it asks.
+
+[[25]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[27]] Say, "Higher."
+
+[27]
+
+"27?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[28]
+
+"28?" it asks.
+
+[[26]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[30]] Say, "Higher."
+
+[29]
+
+"29?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[30]
+
+"30?" it asks.
+
+[[29]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[31]] Say, "Higher."
+
+[31]
+
+"31?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[32]
+
+"32?" it asks.
+
+[[16]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[48]] Say, "Higher."
+
+[33]
+
+"33?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[34]
+
+"34?" it asks.
+
+[[33]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[35]] Say, "Higher."
+
+[35]
+
+"35?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[36]
+
+"36?" it asks.
+
+[[34]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[38]] Say, "Higher."
+
+[37]
+
+"37?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[38]
+
+"38?" it asks.
+
+[[37]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[39]] Say, "Higher."
+
+[39]
+
+"39?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[40]
+
+"40?" it asks.
+
+[[36]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[44]] Say, "Higher."
+
+[41]
+
+"41?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[42]
+
+"42?" it asks.
+
+[[41]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[43]] Say, "Higher."
+
+[43]
+
+"43?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[44]
+
+"44?" it asks.
+
+[[42]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[46]] Say, "Higher."
+
+[45]
+
+"45?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[46]
+
+"46?" it asks.
+
+[[45]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[47]] Say, "Higher."
+
+[47]
+
+"47?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[48]
+
+"48?" it asks.
+
+[[40]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[56]] Say, "Higher."
+
+[49]
+
+"49?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[50]
+
+"50?" it asks.
+
+[[49]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[51]] Say, "Higher."
+
+[51]
+
+"51?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[52]
+
+"52?" it asks.
+
+[[50]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[54]] Say, "Higher."
+
+[53]
+
+"53?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[54]
+
+"54?" it asks.
+
+[[53]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[55]] Say, "Higher."
+
+[55]
+
+"55?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[56]
+
+"56?" it asks.
+
+[[52]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[60]] Say, "Higher."
+
+[57]
+
+"57?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[58]
+
+"58?" it asks.
+
+[[57]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[59]] Say, "Higher."
+
+[59]
+
+"59?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[60]
+
+"60?" it asks.
+
+[[58]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[62]] Say, "Higher."
+
+[61]
+
+"61?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[62]
+
+"62?" it asks.
+
+[[victory]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[63]] Say, "Higher."
+
+[63]
+
+"63?" it asks.
+
+[[impossible]] Say, "Lower."
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Higher."
+
+[coins]
+
+You announce your challenge.
+
+"There are 13 coins, one of which is counterfeit. Each of the 12 genuine coins
+weighs the same amount, but the counterfeit coin weighs a different amount from
+the others. You also have an extra weight, which weighs the same amount as a
+genuine coin. Lastly, you have a balance which allows you to see which of two
+weights is heavier. You may use the balance at most three times, after which
+you must tell me which coin is counterfeit and whether it is heavier or lighter
+than a genuine coin."
+
+The beast agrees to the rules, rubbing its mouths in assent.
+
+"I number the coins 1 through 13, and call the weight W. Once you've decided
+which coin is counterfeit and whether it is heavier or lighter I can begin
+solving the puzzle, and announce the counterfeit coin at the end. Ready?" the
+beast says.
+
+[[coins-]] Say, "Okay."
+[[choose puzzle]] Give a different challenge.
+
+[coins-]
+
+It says, "In the left pan I put W, 1, 2, 3, and 4; in the right I put 5, 6, 7,
+8, and 9."
+
+[[coins-a]] Say, "The left pan is heavier."
+[[coins-b]] Say, "The two pans weigh the same."
+[[coins-c]] Say, "The right pan is heavier."
+
+[coins-a]
+
+It says, "In the left pan I put 1, 5, and 6; in the right I put 2, 7, and 8."
+
+[[coins-aa]] Say, "The left pan is heavier."
+[[coins-ab]] Say, "The two pans weigh the same."
+[[coins-ac]] Say, "The right pan is heavier."
+
+[coins-aa]
+
+It says, "In the left pan I put 7; in the right I put 8."
+
+[[coins-8l]] Say, "The left pan is heavier."
+[[coins-1h]] Say, "The two pans weigh the same."
+[[coins-7l]] Say, "The right pan is heavier."
+
+[coins-ab]
+
+It says, "In the left pan I put 3; in the right I put 4."
+
+[[coins-3h]] Say, "The left pan is heavier."
+[[coins-9l]] Say, "The two pans weigh the same."
+[[coins-4h]] Say, "The right pan is heavier."
+
+[coins-ac]
+
+It says, "In the left pan I put 5; in the right I put 6."
+
+[[coins-6l]] Say, "The left pan is heavier."
+[[coins-2h]] Say, "The two pans weigh the same."
+[[coins-5l]] Say, "The right pan is heavier."
+
+[coins-b]
+
+It says, "In the left pan I put W and 10; in the right I put 11 and 12."
+
+[[coins-ba]] Say, "The left pan is heavier."
+[[coins-bb]] Say, "The two pans weigh the same."
+[[coins-bc]] Say, "The right pan is heavier."
+
+[coins-ba]
+
+It says, "In the left pan I put 11; in the right I put 12."
+
+[[coins-12l]] Say, "The left pan is heavier."
+[[coins-10h]] Say, "The two pans weigh the same."
+[[coins-11l]] Say, "The right pan is heavier."
+
+[coins-bb]
+
+It says, "In the left pan I put W; in the right I put 13."
+
+[[coins-13l]] Say, "The left pan is heavier."
+[[impossible]] Say, "The two pans weigh the same."
+[[coins-13h]] Say, "The right pan is heavier."
+
+[coins-bc]
+
+It says, "In the left pan I put 11; in the right I put 12."
+
+[[coins-11h]] Say, "The left pan is heavier."
+[[coins-10l]] Say, "The two pans weigh the same."
+[[coins-12h]] Say, "The right pan is heavier."
+
+[coins-c]
+
+It says, "In the left pan I put 1, 5, and 6; in the right I put 2, 7, and 8."
+
+[[coins-ca]] Say, "The left pan is heavier."
+[[coins-cb]] Say, "The two pans weigh the same."
+[[coins-cc]] Say, "The right pan is heavier."
+
+[coins-ca]
+
+It says, "In the left pan I put 5; in the right I put 6."
+
+[[coins-5h]] Say, "The left pan is heavier."
+[[coins-2l]] Say, "The two pans weigh the same."
+[[coins-6h]] Say, "The right pan is heavier."
+
+[coins-cb]
+
+It says, "In the left pan I put 3; in the right I put 4."
+
+[[coins-4l]] Say, "The left pan is heavier."
+[[coins-9h]] Say, "The two pans weigh the same."
+[[coins-3l]] Say, "The right pan is heavier."
+
+[coins-cc]
+
+It says, "In the left pan I put 7; in the right I put 8."
+
+[[coins-7h]] Say, "The left pan is heavier."
+[[coins-1l]] Say, "The two pans weigh the same."
+[[coins-8h]] Say, "The right pan is heavier."
+
+[coins-1h]
+
+"Coin 1 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-2h]
+
+"Coin 2 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-3h]
+
+"Coin 3 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-4h]
+
+"Coin 4 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-5h]
+
+"Coin 5 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-6h]
+
+"Coin 6 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-7h]
+
+"Coin 7 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-8h]
+
+"Coin 8 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-9h]
+
+"Coin 9 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-10h]
+
+"Coin 10 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-11h]
+
+"Coin 11 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-12h]
+
+"Coin 12 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-13h]
+
+"Coin 13 is heavier than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-1l]
+
+"Coin 1 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-2l]
+
+"Coin 2 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-3l]
+
+"Coin 3 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-4l]
+
+"Coin 4 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-5l]
+
+"Coin 5 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-6l]
+
+"Coin 6 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-7l]
+
+"Coin 7 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-8l]
+
+"Coin 8 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-9l]
+
+"Coin 9 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-10l]
+
+"Coin 10 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-11l]
+
+"Coin 11 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-12l]
+
+"Coin 12 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[coins-13l]
+
+"Coin 13 is lighter than a genuine coin," it says.
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[random]
+
+You announce your challenge.
+
+"Before you are Alice, Bob, and Carl. One of them will answer questions
+randomly, and the other two will always tell the truth. They speak a language
+which is identical to English except that instead of the words 'Yes' and 'No'
+they use the words 'Di' and 'Fa', and you don't know which word means which.
+You may ask two yes-no questions to whomever you choose (possibly different
+people each time) and must determine who the two truth-tellers are."
+
+The beast agrees to the rules, twirling an antenna.
+
+"Once you've decided which ones are the truth-tellers and whether 'di' means
+yes or no, I can begin. Ready?" the beast says.
+
+[[random-]] Say, "Okay."
+[[choose puzzle]] Give a different challenge.
+
+[random-]
+
+The beast says, "I ask Alice,
+    "Is 'Di' the answer to the question
+        "Is Bob a truth-teller?"
+    ?"
+."
+
+[[random-a]] Say, "Alice says, 'Di'."
+[[random-b]] Say, "Alice says, 'Fa'."
+
+[random-a]
+
+The beast says, "I ask Bob,
+    "Is 'Di' the answer to the question
+        "Is Carl a truth-teller?"
+    ?"
+."
+
+[[random-aa]] Say, "Bob says, 'Di'."
+[[random-ab]] Say, "Bob says, 'Fa'."
+
+[random-aa]
+
+The beast says, "The truth-tellers are Bob and Carl."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[random-ab]
+
+The beast says, "The truth-tellers are Alice and Bob."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[random-b]
+
+The beast says, "I ask Carl,
+    "Is 'Di' the answer to the question
+        "Is Alice a truth-teller?"
+    ?"
+."
+
+[[random-ba]] Say, "Carl says, 'Di'."
+[[random-bb]] Say, "Carl says, 'Fa'."
+
+[random-ba]
+
+The beast says, "The truth-tellers are Alice and Carl."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[random-bb]
+
+The beast says, "The truth-tellers are Bob and Carl."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[chocolate]
+
+You announce your challenge.
+
+"There are 12 pieces of chocolate arranged in a rectangular grid. We each take
+turns eating a piece of chocolate from the grid; and when you eat a piece of
+chocolate, you must also eat any remaining pieces of chocolate below and to the
+right of the chocolate you took. The piece in the upper-left is poisoned, and
+whoever takes that piece loses."
+
+The beast agrees to the rules with an eager gnash of teeth. It draws a diagram
+like below, marking the poisoned piece with an 'X'.
+
+    +-+-+-+-+
+    |X|A|B|C|
+    +-+-+-+-+
+    |D|E|F|G|
+    +-+-+-+-+
+    |H|I|J|K|
+    +-+-+-+-+
+
+"I will go first. Ready?" the beast says.
+
+[[chocolate-F]] Say, "Okay."
+[[choose puzzle]] Give a different challenge.
+
+[chocolate-F]
+
+The beast takes piece F.
+
+    +-+-+-+-+
+    |X|A|B|C|
+    +-+-+-+-+
+    |D|E|
+    +-+-+
+    |H|I|
+    +-+-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-bI]] Take piece B.
+[[chocolate-cfH]] Take piece C.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-Ce]] Take piece E.
+[[chocolate-Cfh]] Take piece H.
+[[chocolate-Bi]] Take piece I.
+
+[chocolate-Bi]
+
+The beast takes piece B.
+
+    +-+-+
+    |X|A|
+    +-+-+
+    |D|E|
+    +-+-+
+    |H|
+    +-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-beH]] Take piece E.
+[[chocolate-bEh]] Take piece H.
+
+[chocolate-bI]
+
+The beast takes piece I.
+
+    +-+-+
+    |X|A|
+    +-+-+
+    |D|E|
+    +-+-+
+    |H|
+    +-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-beH]] Take piece E.
+[[chocolate-bEh]] Take piece H.
+
+[chocolate-Ce]
+
+The beast takes piece C.
+
+    +-+-+-+
+    |X|A|B|
+    +-+-+-+
+    |D|
+    +-+
+    |H|
+    +-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-beH]] Take piece B.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-Beh]] Take piece H.
+
+[chocolate-cE]
+
+The beast takes piece E.
+
+    +-+-+-+
+    |X|A|B|
+    +-+-+-+
+    |D|
+    +-+
+    |H|
+    +-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-beH]] Take piece B.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-Beh]] Take piece H.
+
+[chocolate-Gh]
+
+The beast takes piece G.
+
+    +-+-+-+-+
+    |X|A|B|C|
+    +-+-+-+-+
+    |D|E|F|
+    +-+-+-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-bEh]] Take piece B.
+[[chocolate-cFh]] Take piece C.
+[[chocolate-aD]] Take piece D.
+[[chocolate-Beh]] Take piece E.
+[[chocolate-Cfh]] Take piece F.
+
+[chocolate-gH]
+
+The beast takes piece H.
+
+    +-+-+-+-+
+    |X|A|B|C|
+    +-+-+-+-+
+    |D|E|F|
+    +-+-+-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-bEh]] Take piece B.
+[[chocolate-cFh]] Take piece C.
+[[chocolate-aD]] Take piece D.
+[[chocolate-Beh]] Take piece E.
+[[chocolate-Cfh]] Take piece F.
+
+[chocolate-Cfh]
+
+The beast takes piece C.
+
+    +-+-+-+
+    |X|A|B|
+    +-+-+-+
+    |D|E|
+    +-+-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-bEh]] Take piece B.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-Beh]] Take piece E.
+
+[chocolate-cFh]
+
+The beast takes piece F.
+
+    +-+-+-+
+    |X|A|B|
+    +-+-+-+
+    |D|E|
+    +-+-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-bEh]] Take piece B.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-Beh]] Take piece E.
+
+[chocolate-cfH]
+
+The beast takes piece H.
+
+    +-+-+-+
+    |X|A|B|
+    +-+-+-+
+    |D|E|
+    +-+-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-bEh]] Take piece B.
+[[chocolate-Ad]] Take piece D.
+[[chocolate-Beh]] Take piece E.
+
+[chocolate-Beh]
+
+The beast takes piece B.
+
+    +-+-+
+    |X|A|
+    +-+-+
+    |D|
+    +-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-Ad]] Take piece D.
+
+[chocolate-bEh]
+
+The beast takes piece E.
+
+    +-+-+
+    |X|A|
+    +-+-+
+    |D|
+    +-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-Ad]] Take piece D.
+
+[chocolate-beH]
+
+The beast takes piece H.
+
+    +-+-+
+    |X|A|
+    +-+-+
+    |D|
+    +-+
+
+[[chocolate-aD]] Take piece A.
+[[chocolate-Ad]] Take piece D.
+
+[chocolate-Ad]
+
+The beast takes piece A.
+
+    +-+
+    |X|
+    +-+
+
+[[correct number]] Concede defeat.
+
+[chocolate-aD]
+
+The beast takes piece D.
+
+    +-+
+    |X|
+    +-+
+
+[[correct number]] Concede defeat.
+
+[drops]
+
+You announce your challenge.
+
+"You have three identical chairs and a tall building with openable windows. You
+wish to know how far you can drop a chair without destroying it. Each chair can
+be dropped from the building at most twice, after which it would be so damaged
+that further drops destroy it regardless of height. You already know that
+dropping a chair from the first floor does not destroy it, but that dropping it
+from the 28th floor does destroy it. Using only the three chairs, you must
+determine what is the highest floor a chair can be dropped from without
+destroying it.
+
+The beast agrees to the rules with a kick of its knees.
+
+"Once you've decided which floor is the highest that a chair can be dropped
+from without destroying it, I can begin. Ready?" the beast says.
+
+[[drops-10]] Say, "Okay."
+[[choose puzzle]] Give a different challenge.
+
+[drops-2]
+
+The beast says, "I drop a fresh chair from floor 2."
+
+[[drops-ans-1]] Say, "It is destroyed; you have no chairs left."
+[[drops-3]] Say, "It survives; you have 1 used chair left."
+
+[drops-3]
+
+The beast says, "I drop a used chair from floor 3."
+
+[[drops-ans-2]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-3]] Say, "It survives; you have no chairs left."
+
+[drops-4]
+
+The beast says, "I drop a fresh chair from floor 4."
+
+[[drops-2]] Say, "It is destroyed; you have 1 fresh chair left."
+[[drops-6]] Say, "It survives; you have 1 fresh chair and 1 used chair left."
+
+[drops-5]
+
+The beast says, "I drop a used chair from floor 5."
+
+[[drops-ans-4]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-5]] Say, "It survives; you have no chairs left."
+
+[drops-6]
+
+The beast says, "I drop a fresh chair from floor 6."
+
+[[drops-5]] Say, "It is destroyed; you have 1 used chair left."
+[[drops-8]] Say, "It survives; you have 2 used chairs left."
+
+[drops-7]
+
+The beast says, "I drop a used chair from floor 7."
+
+[[drops-ans-6]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-7]] Say, "It survives; you have no chairs left."
+
+[drops-8]
+
+The beast says, "I drop a used chair from floor 8."
+
+[[drops-7]] Say, "It is destroyed; you have 1 used chair left."
+[[drops-9]] Say, "It survives; you have 1 used chair left."
+
+[drops-9]
+
+The beast says, "I drop a used chair from floor 9."
+
+[[drops-ans-8]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-9]] Say, "It survives; you have no chairs left."
+
+[drops-10]
+
+The beast says, "I drop a fresh chair from floor 10."
+
+[[drops-4]] Say, "It is destroyed; you have 2 fresh chairs left."
+[[drops-16]] Say, "It survives; you have 2 fresh chairs and 1 used chair left."
+
+[drops-11]
+
+The beast says, "I drop a used chair from floor 11."
+
+[[drops-ans-10]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-11]] Say, "It survives; you have no chairs left."
+
+[drops-12]
+
+The beast says, "I drop a fresh chair from floor 12."
+
+[[drops-11]] Say, "It is destroyed; you have 1 used chair left."
+[[drops-14]] Say, "It survives; you have 2 used chairs left."
+
+[drops-13]
+
+The beast says, "I drop a used chair from floor 13."
+
+[[drops-ans-12]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-13]] Say, "It survives; you have no chairs left."
+
+[drops-14]
+
+The beast says, "I drop a used chair from floor 14."
+
+[[drops-13]] Say, "It is destroyed; you have 1 used chair left."
+[[drops-15]] Say, "It survives; you have 1 used chair left."
+
+[drops-15]
+
+The beast says, "I drop a used chair from floor 15."
+
+[[drops-ans-14]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-15]] Say, "It survives; you have no chairs left."
+
+[drops-16]
+
+The beast says, "I drop a fresh chair from floor 16."
+
+[[drops-12]] Say, "It is destroyed; you have 1 fresh chair and 1 used chair left."
+[[drops-20]] Say, "It survives; you have 1 fresh chair and 2 used chairs left."
+
+[drops-17]
+
+The beast says, "I drop a used chair from floor 17."
+
+[[drops-ans-16]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-17]] Say, "It survives; you have no chairs left."
+
+[drops-18]
+
+The beast says, "I drop a used chair from floor 18."
+
+[[drops-17]] Say, "It is destroyed; you have 1 used chair left."
+[[drops-19]] Say, "It survives; you have 1 used chair left."
+
+[drops-19]
+
+The beast says, "I drop a used chair from floor 19."
+
+[[drops-ans-18]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-19]] Say, "It survives; you have no chairs left."
+
+[drops-20]
+
+The beast says, "I drop a fresh chair from floor 20."
+
+[[drops-18]] Say, "It is destroyed; you have 2 used chairs left."
+[[drops-24]] Say, "It survives; you have 3 used chairs left."
+
+[drops-21]
+
+The beast says, "I drop a used chair from floor 21."
+
+[[drops-ans-20]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-21]] Say, "It survives; you have no chairs left."
+
+[drops-22]
+
+The beast says, "I drop a used chair from floor 22."
+
+[[drops-21]] Say, "It is destroyed; you have 1 used chair left."
+[[drops-23]] Say, "It survives; you have 1 used chair left."
+
+[drops-23]
+
+The beast says, "I drop a used chair from floor 23."
+
+[[drops-ans-22]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-23]] Say, "It survives; you have no chairs left."
+
+[drops-24]
+
+The beast says, "I drop a used chair from floor 24."
+
+[[drops-22]] Say, "It is destroyed; you have 2 used chairs left."
+[[drops-26]] Say, "It survives; you have 2 used chairs left."
+
+[drops-25]
+
+The beast says, "I drop a used chair from floor 25."
+
+[[drops-ans-24]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-25]] Say, "It survives; you have no chairs left."
+
+[drops-26]
+
+The beast says, "I drop a used chair from floor 26."
+
+[[drops-25]] Say, "It is destroyed; you have 1 used chair left."
+[[drops-27]] Say, "It survives; you have 1 used chair left."
+
+[drops-27]
+
+The beast says, "I drop a used chair from floor 27."
+
+[[drops-ans-26]] Say, "It is destroyed; you have no chairs left."
+[[drops-ans-27]] Say, "It survives; you have no chairs left."
+
+[drops-ans-1]
+
+The beast says, "A chair can be dropped from at most floor 1 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-2]
+
+The beast says, "A chair can be dropped from at most floor 2 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-3]
+
+The beast says, "A chair can be dropped from at most floor 3 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-4]
+
+The beast says, "A chair can be dropped from at most floor 4 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-5]
+
+The beast says, "A chair can be dropped from at most floor 5 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-6]
+
+The beast says, "A chair can be dropped from at most floor 6 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-7]
+
+The beast says, "A chair can be dropped from at most floor 7 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-8]
+
+The beast says, "A chair can be dropped from at most floor 8 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-9]
+
+The beast says, "A chair can be dropped from at most floor 9 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-10]
+
+The beast says, "A chair can be dropped from at most floor 10 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-11]
+
+The beast says, "A chair can be dropped from at most floor 11 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-12]
+
+The beast says, "A chair can be dropped from at most floor 12 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-13]
+
+The beast says, "A chair can be dropped from at most floor 13 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-14]
+
+The beast says, "A chair can be dropped from at most floor 14 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-15]
+
+The beast says, "A chair can be dropped from at most floor 15 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-16]
+
+The beast says, "A chair can be dropped from at most floor 16 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-17]
+
+The beast says, "A chair can be dropped from at most floor 17 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-18]
+
+The beast says, "A chair can be dropped from at most floor 18 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-19]
+
+The beast says, "A chair can be dropped from at most floor 19 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-20]
+
+The beast says, "A chair can be dropped from at most floor 20 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-21]
+
+The beast says, "A chair can be dropped from at most floor 21 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-22]
+
+The beast says, "A chair can be dropped from at most floor 22 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-23]
+
+The beast says, "A chair can be dropped from at most floor 23 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-24]
+
+The beast says, "A chair can be dropped from at most floor 24 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-25]
+
+The beast says, "A chair can be dropped from at most floor 25 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-26]
+
+The beast says, "A chair can be dropped from at most floor 26 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[drops-ans-27]
+
+The beast says, "A chair can be dropped from at most floor 27 without it being
+destroyed."
+
+[[correct number]] Say, "Correct."
+[[impossible]] Say, "Incorrect."
+
+[victory]
+
+The beast looks at you in reverie and makes no sound.
+
+"Go on," you press, "what is the number I am thinking of? You have one guess
+left."
+
+"How did you know... that I cannot say that number?" the beast mutters under
+its breath.
+
+You continue, restraining your voice. "So can you give me the correct answer to
+my challenge?"
+
+The beast looks away. One by one it folds up its wings and stows them under
+some large flaps covered in scales. It breathes softly, the trees rocking back
+and forth as it did. "No. I cannot fathom how you did it, but you have
+outwitted me."
+
+"So I can have any one thing I ask for? I request safe escort back to my
+spaceship and off this planet," you say.
+
+"Very well. Your spaceship is quite a long ways off in that direction. How you
+managed to get so terribly lost in the first place is quite beyond me. Guards!
+Escort the visitor back to the spaceship. And don't tell any more of your
+ludicrous lies on the way back."
+
+The chains are unbound from you and the two skeletal figures from before begin
+to lead you the way back towards your ship.
+
+"One more thing," the beast says, "take this as a trophy for your victory." It
+rips off one of its scales and tosses it to your feet. The scale glistens like
+a flickering fire in the sunlight. The colors twist and shift like a hologram
+as the scale is tilted. You see the tiny words "Logic Beast of Saffron V"
+etched up and down every surface of the scale. You can barely lift it.
+
+You feel a sudden gust of wind as the beast leaps into the air once more,
+raising up an enormous cloud of dirt and grass that obscures the star of the
+Saffron system. The earth shakes as the beast lands in some distant location,
+and one last time you see the beast hurtling through the air before vanishing
+from sight.
+
+THE END
+
+[correct number]
+
+"I have solved your challenge, have I not?" the beast says with evident
+satisfaction.
+
+It does not wait for a response from you before continuing.
+
+"Now that I have solved your puzzle, you must solve one of mine. If you
+succeed, I shall reward you beyond your wildest imagination. If you fail, you
+shall suffer greatly, like all those who have failed before you."
+
+The beast nears you and looks you straight in the eyes.
+
+"But I have confidence in you. I think you are not like the others, who came
+before. I believe that maybe, you are the one!"
+
+The beast regains its composure and arhythmically paces up and down before you,
+scratching the nose on its belly as if deep in thought.
+
+"Anyhow, here is my puzzle. It is surely not too difficult for you. I just hope
+that you do not find it so easy that you do not even enjoy solving it.
+
+I gather two of my friends before me, whose names are P------ and S--. I
+announce to them that I have secretly chosen two integers A and B, such that
+1 < A <= B. I announce further that I will tell P------ the product A * B and I
+will tell S-- the sum A + B. After I have confidentially told P------ the value
+of A * B and confidentially told S-- the value of A + B, the two of them get
+together and have a conversation.
+
+    S--    : You do not have enough information to know A and B.
+    P------: Now I know the values of A and B.
+    S--    : Now I know them, too.
+
+What are the values of A and B? There may be multiple answers, only one is
+necessary."
+
+You are dumbstruck.
+
+[[puzzle response]] continue
+
+[puzzle response]
+
+The beast looks at you expectantly.
+
+"What are your thoughts? I imagine you must have solved so easy a puzzle by
+now."
+
+[[repeat    ]] Say, "Can you repeat the puzzle again?"
+[[hint      ]] Say, "Um... can I have a hint?"
+[[solve1    ]] Say, "I know an answer to the puzzle."
+[[no answer ]] Say, "The puzzle has no valid solution."
+[[stall1    ]] Stall for time as you methodically search for weaknesses
+        in the chains binding you.
+
+[repeat]
+
+The beast repeats the puzzle.
+
+"I gather two of my friends before me, whose names are P------ and S--. I
+announce to them that I have secretly chosen two integers A and B, such that
+1 < A <= B. I announce further that I will tell P------ the product A * B and I
+will tell S-- the sum A + B. After I have confidentially told P------ the value
+of A * B and confidentially told S-- the value of A + B, the two of them get
+together and have a conversation.
+
+    S--    : You do not have enough information to know A and B.
+    P------: Now I know the values of A and B.
+    S--    : Now I know them, too.
+
+What are the values of A and B? There may be multiple answers, only one is
+necessary."
+
+[[puzzle response]] continue
+
+[hint]
+
+The beast pauses in its awkward pacing and gives you a puzzled look. One of its
+ears unfolds in surprise.
+
+"A... hint?" it says. "What do you mean?"
+
+[[puzzle response]] Say, "Ummm... never mind, I think I can solve the puzzle."
+[[small hint]] Say, "I was having just a little trouble with the puzzle and
+        thought that with a tiny bit of help I would be able to solve it."
+[[big hint  ]] Say, "I'm afraid I'm completely lost with the puzzle and I'm
+        not really sure where to begin with it."
+[[define hint]] Say, "A 'hint' is an additional piece of information which
+        narrows down the possible answer choices."
+
+[small hint]
+
+The beast folds its ear back up and looks at you more closely. "You don't mean
+that my puzzle is too difficult for you, do you?"
+
+"Yes --  I mean, well, I am sure I would have no trouble solving it by myself,
+but I might need a lot of time, and I thought that maybe with just a little
+clue I would not need so much time; or maybe I should just keep thinking about
+it and give you the answer tomorrow......?"
+
+The beast was no longer paying attention to what you were saying. It sighs and
+lays down on the grass, neatly double-folding its arms beneath it to do so. It
+stares off into space and speaks, as if to itself deep in thought.
+
+"I was told that, surely this one was different from the others! This visitor
+showed much promise, much potential. Bright, intelligent, they told me. And I
+thought that maybe this time they were right. But... so close, but not quite
+there. I'm... sorry."
+
+The beast dispassionately speaks to someone you can not see behind you.
+"Guards, deal with the intruder in the usual way. And do not speak to me of
+this one again."
+
+THE END
+
+[big hint]
+
+The beast scrapes its ears against a tree in disappointment. "Just like the
+others!" it sighs, and walks away without looking back, leaving you to vainly
+contend against the chains tying you in place.
+
+THE END
+
+[define hint]
+
+The beast looks bewildered. "'Additional piece of information which narrows
+down the possible answer choices'? But that doesn't make any sense! The puzzle
+already contains within itself a complete set of information sufficient to
+narrow down the possible answers to a single choice -- the correct answer.
+Giving you the puzzle gives you the exact same information as had I given you
+the answer. The idea of 'additional information' which would narrow down the
+possible answers even further makes no sense at all, unless you mean to narrow
+down the possible answers to none at all, which would make the puzzle
+unsolvable! Do you agree?"
+
+You are beginning to feel like you have made a mistake.
+
+[[hint agree]] Say, "Yes."
+[[hint disagree]] Say, "No."
+
+[hint agree]
+
+The beast looks at you and tenses its thin wings. "Right. It appears that you
+want me to add further information to my puzzle to make it impossible. I'm
+afraid we don't do that kind of thing here."
+
+The beast speaks to the unseen guards behind you. "Place the prisoner on the
+next ship to Saffron IV to be with other... illogical beasts. Next time only
+notify me when you've found someone worthy."
+
+THE END
+
+[hint disagree]
+
+The beast's bill quacks madly in dismay as it tries to grasp your response.
+
+"What?! How can you disagree? My reasoning is sound and irrefutable. If you
+cannot see that, then you must be blind to all thought and reason. Never mind,
+there is no sense in talking with you, your words will only fill my head with
+contradictions and wrong conclusions. Guards, have the prisoner executed this
+instant!"
+
+THE END
+
+[solve1]
+
+"Excellent! I am very pleased. What is the solution?" the beast asks. Its eyes
+hum up and down with anticipation.
+
+[[solve2]] Say, "A is 4 and B is 13."
+
+[solve2]
+
+"That is completely correct! Well done." the beast says.
+
+You momentarily feel very pleased with yourself. Then the beast looks at you
+and says, "There is just one thing missing. The solution is not a /real/
+solution without an unassailable argument justifying it as correct. What is
+your reasoning that lead you to that answer?"
+
+[[solve3]] Say, "Let X be the value of A + B and Y be the value of A * B.
+        Then S-- knows the value of X and P------ knows the value of Y. Let us
+        label the three given facts as {1}, {2}, and {3}:
+            {1} Given X, we know that Y does not determine A and B.
+            {2} Given {1} and Y, we know A and B.
+            {3} Given {2} and X, we know A and B.
+        Now we claim that A = 4 and B = 13 is consistent with all three facts
+        {1}, {2}, and {3}.
+
+        First, consider for what values of Y = A * B it is possible to uniquely
+        determine the values of A and B without further information. Suppose
+        for now that Y is even and not a power of two; write Y = 2 * M. If
+        furthermore M is not prime, then knowing Y is not sufficient to
+        uniquely determine the factorization Y = A * B.
+
+        Now consider for a moment some value of X that is odd and such that
+        X - 2 is not prime. Then for every possible summation X = C + D, one of
+        C and D is even and the other odd, so their product C * D is even and
+        not a power of two, and furthermore if C is 2 then D is not prime, so
+        by the previous paragraph we can conclude:
+            Statement {1} is true for odd values of X such that X - 2 is not
+            prime.
+        In particular, as
+            11 =  2 +  9
+            17 =  2 + 15
+            23 =  2 + 21
+            27 =  2 + 25
+            35 =  2 + 33
+            37 =  2 + 35,
+        and none of 9, 15, 21, 25, 33, and 35 are prime, therefore statement
+        {1} holds for X = 11, 17, 23, 27, 35, and 37.
+
+        Consider some value of Y...."
+
+[[guessed]] Say, "I guessed?"
+
+[solve3]
+
+The beast listens attentively.
+
+[[solve4]] Continue, "Consider some value of Y for which we want to know
+        whether statement {2} is true. If we can exhibit two different
+        factorizations Y = C * D such that {1} holds for both values of C + D,
+        then we have no way of distinguishing which factorization of Y might be
+        correct, so statement {2} must be false for such values of Y.
+
+        In particular, consider that
+            30 =  2 * 15 =  5 *  6  but  2 + 15 = 17,  5 +  6 = 11
+            42 =  3 * 14 =  2 * 21  but  3 + 14 = 17,  2 + 21 = 23
+            60 =  5 * 12 =  3 * 20  but  5 + 12 = 17,  3 + 20 = 23
+            66 =  6 * 11 =  2 * 33  but  6 + 11 = 17,  2 + 33 = 35
+            70 =  7 * 10 =  2 * 35  but  7 + 10 = 17,  2 + 35 = 37
+            72 =  8 *  9 =  3 * 24  but  8 +  9 = 17,  3 + 24 = 27
+        and statement {1} is true for X = 11, 17, 23, 27, 35, and 37. Therefore
+        we can conclude that statement {2} is false for Y = 30, 42, 60, 66, 70,
+        and 72.
+
+        Now we claim that statement {3} holds for X = 4 + 13 = 17. Given this
+        value of X, we know that X = A + B for some A and B such as:
+            X = 17 =  2 + 15,       Y =  2 * 15 = 30;
+            X = 17 =  3 + 14,       Y =  3 * 14 = 42;
+            X = 17 =  4 + 13,       Y =  4 * 13 = 52;
+            X = 17 =  5 + 12,       Y =  5 * 12 = 60;
+            X = 17 =  6 + 11,       Y =  6 * 11 = 66;
+            X = 17 =  7 + 10,       Y =  7 * 10 = 70; or
+            X = 17 =  8 +  9,       Y =  8 *  9 = 72.
+        Now we just saw that statement {2} is false for each of those values of
+        Y except possibly for Y = 52. Therefore, given statement {2}, we can
+        conclude that A = 4, B = 13. Thus we have shown that, given both X = 17
+        and statement {2}, we can deduce the values of A and B; therefore
+        statement {3} is true for X = 17.
+
+        We already saw that statement {1} holds for X = 17, so all that remains
+        to be shown is that statement {2} holds for Y = 52. First we observe
+        that...."
+
+[solve4]
+
+The beast continues listening.
+
+[[solve5]] Continue, "First we observe that if Y = 115, then knowing
+        only the value of Y is sufficient information to deduce A and B,
+        because 115 = 5 * 23 is a product of two primes, so we must have A = 5
+        and B = 23 (there is no other possible factorization).
+
+        Now it follows that statement {1} is false for X = 28, for knowing only
+        that X = 28 we cannot eliminate the possibility that
+            X = 28 =  5 + 23,       Y =  5 * 23 = 115,
+        in which case it is possible that Y does determine A and B by itself.
+
+        Now to show that statement {2} holds for Y = 52, consider every
+        possible factorization of Y = 52 = C * D. They are
+            Y = 52 =  2 * 26,       X =  2 + 26 = 28; or
+            Y = 52 =  4 * 13,       X =  4 + 13 = 17.
+        Therefore, given that statement {1} is true and that Y = 52, we would
+        be able to eliminate the possibility that X = 28 (as statement {1} is
+        false for 28) and conclude that A = 4 and B = 13. Therefore the values
+        of A and B would be uniquely determined, and so statement {2} holds for
+        Y = 52. This concludes our demonstration that A = 4 and B = 13 is a
+        valid solution to the puzzle."
+
+[solve5]
+
+The beast pauses for a moment after the completion of your explanation.
+
+"Finally!" the beast cries with a voice of unfettered bliss. "I have found the
+one I have been looking for for so long!"
+
+It continues. "I have solved your puzzle, and you have solved mine. Finally I
+have found a being that shares my love of puzzles and logic and will truly
+understand who I am. We may look very different, but deep down we are the same,
+two like beings searching for each other across a universe filled only with
+beings of illogic and unreason."
+
+You feel uncomfortable.
+
+"Now, I can give you the reward I have promised you... me!" The beast's gills
+rhythmically sway.
+
+You continue to feel uncomfortable.
+
+"Oh, wait, sorry, I'm still in this ridiculous costume!" The beast begins to
+remove one of its fake plastic heads, to reveal....
+
+[[solve6]] continue
+
+[solve6]
+
+...to reveal a yet more hideous beast!
+
+"See! I am truly beautiful!" the beast cries. "Guards, remove these terrible
+chains from the visitor. We are to be wed at once!"
+
+Your chains are removed but already you can feel the invisible chain of
+matrimony holding you fast.
+
+You may not have outwitted the Logic Beast of Saffron V, but with time you come
+to accept your ending as some form of a victory. As you live out the remainder
+of your life on Saffron V, you can't help but wonder if there was something
+else you could have done!
+
+THE END
+
+[guessed]
+
+"That is... absurd." The beast's eyebrows meander about its face in confusion.
+"Are you serious? Do you really have no idea what makes your solution correct?"
+
+You nod.
+
+"Well... I do not understand who you are, but clearly you are not a thing of
+logic. Guards, flay and dissect this organism. I want the brain preserved so
+that I may study it later."
+
+THE END
+
+[no answer]
+
+"There is no solution? Surely I did not hear you correctly?" the beast says.
+
+[[puzzle response]] Say, "Sorry, I must have mispoken."
+[[no answer2]] Say, "I am sure, there is no solution."
+
+[no answer2]
+
+The beast narrows its eyes at you so closely that you fear its face will split
+in half.
+
+"That is incorrect," the beast says, "there is a solution to the puzzle. But I
+fear that any discussion further of this with you is a waste of my time. I
+cannot fathom a creature who can proclaim a falsehood with complete certainty.
+And neither do I wish to. Guards! Dismember the intruder and fertilize the
+forest with the parts."
+
+THE END
+
+[stall1]
+
+You say, "I've really been enjoying the puzzles, but I'm afraid I haven't
+gotten to know you very well, and would very much like it if you could tell me
+a little about yourself."
+
+The beast's eyes sparkle, one bursting in flames. "Why! You're quite right. I'm
+sorry, I've completely forgotten my manners."
+
+The beast begins to pace back and forth, staring mostly at the ground with
+occasional, unfocused glances at you. You start to feel along the chain
+attached to your left arm, checking every link that you can reach for
+weaknesses.
+
+"I've been here on Saffron V for so long," the beast started, "and so rarely
+met people as interested in puzzles as yourself, that it completely passed my
+mind to tell you anything at all about me. I haven't always been on Saffron V,
+you see. My earliest memories are of Saffron II -- a much warmer planet to be
+sure, but with just the same beautiful reds and oranges. Orbits the same star,
+after all!"
+
+[[stall2]] Check the chain attached to your right arm.
+
+[stall2]
+
+Slowly you start feeling along the chain attached to your right arm.
+
+The beast continues uninterrupted. "I can still remember how I first became
+interested in logic and puzzles. There had been a traveler, much like yourself,
+from a faraway system whose name I still don't know. I was quite young at the
+time, and the traveler had told me my very first logic puzzle. It is not a
+challenging puzzle, but I treasure it in my memory. I'm sure you'd love to hear
+it, you've been a very good listener."
+
+[[stall3]] Check the chain attached to your left leg.
+
+[stall3]
+
+By balancing carefully on your right foot and sticking your left high in the
+air, you can just barely reach the chain with your left hand. You swing your
+right arm about for balance as you start to feel along the chain.
+
+"There is a king inspecting his retinue of elite soldiers, and he wants them to
+march in equal rows for the inspection. First he asks the soldiers to march in
+rows of 5, but after forming the rows they find that there is one soldier left
+over who does not fit into any row. Then he asks the soldiers to march in rows
+of 7, but this time there are five soldiers left over after they form the rows.
+Finally in desparation he asks the soldiers to march in pairs, but even then
+there is a soldier that is left unpaired! The question is, what is the fewest
+number of soldiers that the king could have had in his retinue?"
+
+[[stall4]] Check the chain attached to your right leg.
+
+[stall4]
+
+You try to repeat the same acrobatics with the other side, but manage to wrench
+your left ankle painfully. To take as much weight as possible off of your left
+foot, you pull down very hard with your left hand, thus putting some of your
+weight on that chain. Meanwhile you feel along the chain attached to your right
+leg.
+
+"Yes, yes, don't laugh, of course there is no need to answer such a trivial
+question. I did not mean to impugn your intelligence by suggesting otherwise!
+None-the-less, this puzzle is very dear to me. I hold the answer to that puzzle
+in sacred memory of the traveler who taught it to me, and never will say that
+number until I meet another being who understands me so well."
+
+All four chains appear to be sound.
+
+[[stall5]] Didn't you have a knife in your back pants pocket?
+
+[stall5]
+
+You can just barely reach your back pants pocket with your elbows and feel the
+the bulge of the knife, but can't get a strong enough grip to remove it.
+Instead you bring your feet as close together as possible, crouch down a bit,
+and jump as high as you can to try to launch the knife from your pocket.
+
+"But enough of these silly childhood things! Really, I didn't mean to bore you
+with silly stories of my youth and vows I made so many ages ago. I'm sure you'd
+much rather hear about Saffron V. That is, after all, why you came to visit,
+and it's not like you've had much of a chance to see the sights from where you
+are now! However you can already get a decent idea of the place from what you
+can see here. Much of the planet is forested, like here, though I must say that
+this is a particularly fine forest area where we are now. Well-fertilized, you
+might say."
+
+The knife comes out of your pocket and lands somewhere behind you.
+
+[[stall6]] Bend over backwards and look for the knife.
+
+[stall6]
+
+You feel the rush of blood to your head as you bend over as far backwards as
+you can reach, still barely touching the ground with the tips of your toes. A
+confusing visage of upside-down trees growing downwards into the sky enters
+your eyes as you dizzily search for a knife on the ground above you somewhere.
+You tuck your hands under your knees to steady yourself.
+
+"Pretty much the whole place is land, with a few large lakes in the distant
+south. I can't stand water worlds... all the perfectly flat water, extending as
+far as you can imagine, it is just too overwhelming to be faced with the whole
+planet all at once in this way, just too enormous. To know that through the
+whole thing there is no variation, no complexity, it is like seeing the entire
+planet in a single glance. It becomes very large and very small all at once,
+which just isn't right for a planet. I went to Saffron IV once -- it is a water
+world, of course -- and had to leave almost as soon as I arrived. Not a single
+spot of land to give it some spice or flavor."
+
+You spot the knife, just in reach of your left foot.
+
+[[stall7]] Nudge the knife closer so you can pick it up.
+
+[stall7]
+
+You try to right yourself again but find that your left arm remains stuck
+underneath your left leg. Jumping about madly and tugging your arms around you
+eventually free your limbs from each other, but find that in defiance of all
+plausible topology you have managed to entagle the chains for your left leg and
+left arm. You can no longer reach the knife with your left leg.
+
+"Saffron V itself is my favorite in the Saffron system. The star is just the
+right brightness here, and the complex interweaving of grasslands and forests
+that encircle the planet create the most intricate fractal pattern. Sometimes I
+just love to gallop for days at a time (rolling down the hills of course) to
+watch the scenery go by."
+
+To extend your reach with your right leg, you stick your left foot in the air
+above your head, with your left arm obliged to wrap around your left leg due to
+the entangled chains. You can now just barely reach the knife with your right
+foot, but you don't have enough strength and leverage to turn your knee in the
+necessary direction all the way. To maximize your range-of-motion, you
+violently swing your right foot back and forth in regular oscillations, with
+your right arm flailing in synchrony. With a great outpouring of force you just
+manage to barely tap the knife, nudging it slightly further away.
+
+[[stall8]] Rip off a pants leg to use as a whip to grab the knife.
+
+[stall8]
+
+Starting from a torn spot on the right knee of your pants, you manage to rip
+apart a sizeable portion of the fabric uselessly, before eventually removing a
+large chunk from your knee to your ankle. You take off your right shoe with
+comparatively little difficulty and begin trying to thread the torn portion of
+the pants down your leg and through the chain links so that you can retrieve
+it.
+
+"To be honest, actually, I have never left the Saffron system. I have heard
+tales of these places, of planets five times the size of Saffron VI and made
+almost all of air, of white stars and strange-looking creatures that live on
+planets orbiting them! I am not sure that I could bear these places, and I am
+at least quite happy here. I am content, at least, to hear the occasional story
+of far flung places from those who wander into (and less often, out of) my
+home. Speaking of which, I have been talking for quite a while, and I am sure
+that you -- what the hell are you doing?"
+
+The beast suddenly stops talking and stares motionless at you.
+
+You look up from your task and freeze. Sweat from the intense concentration
+drips down your face; your right hand still desparately clings on to a thread
+of fabric that you had managed to work through the chain link. Half of your
+pants are destroyed, and shredded fabric litters the ground around you. Your
+left leg and arm dangle helplessly in the air above your head. The chains
+remain twisted about your limbs and body in a senseless confusion.
+
+"I'm, uhhh, trying to get /that/." You try to gesture with your head at your
+knife, which lies somewhere in the grass on the ground behind you.
+
+The beast continues to stare. "You're sick, you know. You can do whatever you
+want, but I don't have to be here to see it," it says, and backs away from you,
+leaving you entangled in your chains.
+
+THE END
+
+[impossible]
+
+The beast's eyes quiver furiously, no longer focusing on anything. Its whole
+face is filled with rage as its mind tries to reconcile the facts set before
+it. Its thin vestigial wing flaps, three on its left and two on its right,
+spasmatically slam up and down, producing a horrifying chorus of squelches as
+they slap against its belly. Its ear claw rakes against the ground in agony.
+The whole body of the beast shudders uncontrollably. Its non-speaking mouth
+sputters, shedding teeth. A giant intake of breath swells the beast to almost
+twice its ordinary size.
+
+                    IMPOSSIBLE!!!
+
+the beast expels deafeningly. Distant trees are felled in response.
+
+The mashing, gnashing, bashing beast jumps at you and tears you limb from limb
+with its teeth.
+
+THE END
